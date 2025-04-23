@@ -1,6 +1,6 @@
 # 💫 About Me:
-🎓 I am an Engineering student, with an M.Sc. in Data & AI at ESILV (Paris-La Défense, France). I am also doing a double degree at PoliTo (Turin, Italy).<br>
-🔬 I am currently doing a research thesis at SLU (Saint Louis, USA), working on multi-organ segmentation for robotic laparoscopic surgery.<br>
+🎓 I am an Engineering student, with an M.Sc. in Data & AI at ESILV (Paris-La Défense, France). I am also doing a double degree at Politecnico di Torino (Turin, Italy).<br><br>
+🔬 I am currently doing a research thesis at SLU (Saint Louis, USA), working on multi-organ segmentation for robotic laparoscopic surgery.<br><br>
 💻 I was previously an intern at BeesApps (Paris, France), working with the latest LLMs at the time, doing benchmarks, implementing locally and developing features.
 
 ## 🌐 Socials:
